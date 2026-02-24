@@ -59,3 +59,6 @@ Data visualization best practices
 The dataset is not originally created by me
 
 It was provided as part of a training/workshop course
+
+<img width="1241" height="836" alt="image" src="https://github.com/user-attachments/assets/eb7680c4-6352-40a0-aa79-ccfbc2fdbf50" />
+
