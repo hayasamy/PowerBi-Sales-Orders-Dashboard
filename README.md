@@ -57,8 +57,10 @@ Data visualization best practices
 ⚠️ Data Source & Disclaimer
 
 The dataset is not originally created by me
-
 It was provided as part of a training/workshop course
+
+Note: This Power BI report depends on the Excel file provided in this repository.
+Ensure the Excel file is downloaded and kept in the same folder path before opening the PBIX file.
 
 <img width="1241" height="836" alt="image" src="https://github.com/user-attachments/assets/eb7680c4-6352-40a0-aa79-ccfbc2fdbf50" />
 
